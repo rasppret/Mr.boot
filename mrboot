@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Câmera de segurança Intelbras VHL 1220D</title>
+</head>
+<body>
+  <header>
+    <h1>Câmera de segurança Intelbras VHL 1220D</h1>
+    <p>A câmera de segurança Intelbras VHL 1220D é uma câmera de segurança analógica que usa a tecnologia HDCVI. A tecnologia HDCVI permite a transmissão de vídeo de alta definição (Full HD) por longas distâncias usando cabos coaxiais.</p>
+  </header>
+  <section>
+    <h2>Detalhes do produto</h2>
+    <ul>
+      <li>Sensor de imagem de 2 megapixels</li>
+      <li>Lente de 2.8 mm</li>
+      <li>Iluminador infravermelho com alcance de 20 metros</li>
+      <li>Suporta resolução Full HD (1920x1080p)</li>
+      <li>Compatível com DVRs Intelbras</li>
+    </ul>
+  </section>
+  <section>
+    <h2>Promoção</h2>
+    <p>A câmera de segurança Intelbras VHL 1220D está com preço especial de lançamento. Aproveite!</p>
+    <p><b>De R$ 599,00 por R$ 499,00</b></p>
+  </section>
+  <footer>
+    <p>Copyright © 2023 Intelbras</p>
+  </footer>
+</body>
+</html>
